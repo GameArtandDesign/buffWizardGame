@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPerson/EnemiesBPs/BP_EnemyBase.uasset",
 				"C:/Users/Ajlabrie/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Ajlabrie/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
