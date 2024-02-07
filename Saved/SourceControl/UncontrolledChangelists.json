@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/objects/box.uasset",
+				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/StarterContent/Materials/invisible.uasset",
 				"C:/Users/Ajlabrie/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Ajlabrie/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
