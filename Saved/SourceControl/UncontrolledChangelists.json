@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPerson/EnemiesBPs/BP_EnemyBase.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPerson/Blueprints/obj.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/I0/BF8AXD1AVF6N7TAJUBMUTP.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4O/F6HO6AZ23FPFZVAZZ5SO5C.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
 				"C:/Users/Ajlabrie/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Ajlabrie/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
