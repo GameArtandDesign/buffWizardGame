@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPerson/EnemiesBPs/BP_EnemyBase.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPerson/EnemiesBPs/BP_EnemyCockroach.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/AE/F4X106NFFRO48RY46KM207.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RP/GPT0TV6KMUGCUDHSGZY945.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0Q/L5STMS4BJ16Q0GAYY116GW.uasset",
+				"C:/Users/jtalexander/Documents/GitHub/buffWizardGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Ajlabrie/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Ajlabrie/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
