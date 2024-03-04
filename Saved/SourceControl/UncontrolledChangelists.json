@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/HP/Documents/Homework/Game Art and Design/buffWizard/buffWizardGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/HP/Documents/Homework/Game Art and Design/buffWizard/buffWizardGame/Content/FirstPerson/EnemiesBPs/BP_EnemyCockroach.uasset",
+				"C:/Users/HP/Documents/Homework/Game Art and Design/buffWizard/buffWizardGame/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/Meshes/Barrel.uasset",
 				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/Meshes/Box.uasset",
 				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/Meshes/Roach.uasset",
