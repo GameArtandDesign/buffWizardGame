@@ -2919,3 +2919,6 @@ Continue: Skip saving this asset only.
 [2024.10.23-22.50.14:189][262]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B527C7652-464D-4170-303E-1B93DF3081A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=ffabd92e4a09a56e23f7638b124fcb19%7C%7Cdc30e743-f4bd-4967-b17c-30b573eb0291&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
 [2024.10.23-22.50.14:207][262]LogXGEController: Cleaning working directory: C:/Users/wjmckelvey/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2024.10.23-22.50.14:209][262]LogPakFile: Destroying PakPlatformFile
+[2024.10.23-22.50.14:536][262]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.23-22.50.14:590][262]LogExit: Exiting.
+[2024.10.23-22.50.14:623][262]Log file closed, 10/23/24 17:50:14
