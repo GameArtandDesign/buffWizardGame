@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cfdavis1/Documents/GitHub/buffWizardGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/cfdavis1/Documents/GitHub/buffWizardGame/Content/Meshes/Starting_area.uasset",
+				"C:/Users/cfdavis1/Documents/GitHub/buffWizardGame/Content/StarterContent/Maps/Slider.umap",
+				"C:/Users/cfdavis1/Documents/GitHub/buffWizardGame/Content/Meshes/polySurface9Mat.uasset",
 				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/FirstPerson/EnemiesBPs/Skeli/Skeli_mat.uasset",
 				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/GG/2CH3FTS2CWYNTU0ASQ3ZLA.uasset",
 				"C:/Users/wjmckelvey/Documents/GitHub/buffWizardGame/Content/FirstPerson/EnemiesBPs/SkeliBP.uasset",
